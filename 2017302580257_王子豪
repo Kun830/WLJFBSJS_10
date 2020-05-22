@@ -1,0 +1,17 @@
+## P14
+
+- a: `eBGP`
+- b: `iBGP`
+- c: `eBGP`
+- d: `iBGP`
+
+## P16
+
+Here is a way that C publish the route to D from the peer point of C in east coast.
+
+
+## P19
+
+A should ask B to route to AS-paths: A-W and A-V, advice to C one route A-V.
+
+C should receive AS-paths: B-A-W, B-A-V, A-V
